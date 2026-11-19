@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flinthambleton.github.io/quickprintabletools/sitemap.xml
